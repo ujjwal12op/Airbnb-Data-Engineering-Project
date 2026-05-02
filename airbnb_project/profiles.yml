@@ -1,0 +1,13 @@
+airbnb_project:
+  outputs:
+    dev:
+      account: JLQKUYY-AC74744
+      database: AIRBNB
+      password: 12345Ujjwal54321
+      role: ACCOUNTADMIN
+      schema: dbt_schema
+      threads: 1
+      type: snowflake
+      user: UJJWALTIWARI
+      warehouse: COMPUTE_WH
+  target: dev
